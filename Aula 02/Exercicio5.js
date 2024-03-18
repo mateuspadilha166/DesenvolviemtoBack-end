@@ -8,3 +8,4 @@ if (atendeAClassificacaoEtaria >=18){
 else{
     console.log("Voce é menor de idade "+idade); 
 }
+// rm - RF 

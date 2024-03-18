@@ -1,0 +1,15 @@
+{
+  "name": "aula-03",
+  "version": "1.0.0",
+  "description": "Projeto 01",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus luukys",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
